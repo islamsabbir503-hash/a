@@ -1,0 +1,6 @@
+{
+  "name": "NitroWarp VPN",
+  "description": "Dual-Engine Hybrid VPN with Cloudflare Turbo WireGuard and Global Multi-IP OpenVPN engines",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
